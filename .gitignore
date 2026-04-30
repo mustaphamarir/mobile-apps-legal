@@ -1,0 +1,14 @@
+# Jekyll build artifacts (GitHub Pages builds remotely; don't commit local previews)
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

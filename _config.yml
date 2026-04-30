@@ -1,0 +1,7 @@
+# GitHub Pages config — Jekyll Cayman theme renders Markdown cleanly
+# without any build step. The site lives at:
+#   https://mustaphamarir.github.io/mobile-apps-legal/
+
+title: Mustapha Marir — Mobile Apps Legal
+description: Privacy policies and legal documents for mobile apps published on Google Play.
+theme: jekyll-theme-cayman
