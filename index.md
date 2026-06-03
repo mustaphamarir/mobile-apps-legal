@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mobile Apps — Legal
+title: Mobile Apps - Legal
 ---
 
 # Legal & privacy
@@ -9,9 +9,10 @@ Public privacy policies and legal documents for mobile apps published by **Musta
 
 ## Apps
 
-- [**Coin ID** — Privacy Policy](./coin-id/)
-- [**Rock & Mineral ID** — Privacy Policy](./rock-mineral-id/)
-- [**Fish Identifier** — Privacy Policy](./fish-id/)
+- [**Coin ID** - Privacy Policy](./coin-id/)
+- [**Rock & Mineral ID** - Privacy Policy](./rock-mineral-id/)
+- [**Fish Identifier** - Privacy Policy](./fish-id/)
+- [**Shell Identifier** - Privacy Policy](./shell-id/)
 
 ---
 
