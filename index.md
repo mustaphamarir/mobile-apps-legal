@@ -13,6 +13,7 @@ Public privacy policies and legal documents for mobile apps published by **Musta
 - [**Rock & Mineral ID** - Privacy Policy](./rock-mineral-id/)
 - [**Fish Identifier** - Privacy Policy](./fish-id/)
 - [**Shell Identifier** - Privacy Policy](./shell-id/)
+- [**Stamp Identifier** - Privacy Policy](./stamp-id/)
 
 ---
 
