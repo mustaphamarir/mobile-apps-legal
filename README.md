@@ -9,6 +9,8 @@ Play listing has a stable URL.
 | App | Privacy policy |
 |---|---|
 | Coin ID | [/coin-id/](https://mustaphamarir.github.io/mobile-apps-legal/coin-id/) |
+| Spider ID | [/spider-id/](https://mustaphamarir.github.io/mobile-apps-legal/spider-id/) |
+| Mushroom ID | [/mushroom-id/](https://mustaphamarir.github.io/mobile-apps-legal/mushroom-id/) |
 
 ## Adding a new app
 
